@@ -1,14 +1,14 @@
-title: Your awesome title
-name: Your Name
-email: your-email@example.com
-description: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+title: BLOGGY MEI
+name: meijy
+email: meijy16@lzu.edu.cn
+description: KEEP CALM AND ENJOY YPURSELF
 
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
-project_one: "First Project"
-project_one_description: Describe your project!
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
+project_one: "FUN"
+project_one_description: Just for test. Just for fun.
+project_one_url: https://github.com/scarletmjy/myFile
 project_one_icon: location_on
 
 project_two: Second Project
@@ -31,7 +31,7 @@ project_four_icon: restaurant
 
 project_button: Github
 
-github: https://github.com/jameshamann/jekyll-material-theme
+github: https://github.com/scarletmjy
 medium: https://medium.com
 
 baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it as '/'
